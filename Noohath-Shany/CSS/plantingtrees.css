@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hero-image {
+  background-image: url("https://2jnjpz34p77w1q3shs2fsoem-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/SP_Tree-1024x536.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  margin-left: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.main{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+h4 {
+  font-style: italic;
+}
+
+p {
+  font-style: normal;
+  color: black;
+}
+
+.intro {
+  margin: 50px;
+}
+
+.firstImage{
+border-radius: 10%;
+}
+
+.middle-container {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border: 2px solid #99bbad;
+  padding: 10px;
+  border-radius: 25px;
+  padding-top: 15px;
+  margin-right:10%;
+  margin-left: 10%;
+  background-color: #99bbad;
+}
+
+.bottom-container {
+  background-color: #62959c;
+  padding: 50px 0 20px;
+}
+
+button {
+  background-color: greenyellow;
+}

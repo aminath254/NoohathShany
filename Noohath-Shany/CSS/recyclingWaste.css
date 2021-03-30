@@ -1,0 +1,94 @@
+.writtenStuff {
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+.hero-image {
+  background-image: url("https://greentumble.com/wp-content/uploads/2018/05/plastic-recycling.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 600px;
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 27%;
+  transform: translate(-50%, -50%);
+  color: #1f441e;
+  font-family: 'Raleway', sans-serif;
+}
+
+.sub-text {
+  font-family: 'PT Serif Caption', serif;
+  margin-left: 7%;
+  font-size: 100px;
+  padding-top: 25%;
+}
+
+.introduction {
+  margin-left: 60px;
+  margin-top: 10px;
+  padding-left: 20px;
+  margin-right: 50%;
+  margin-bottom: 5%;
+  width: 50%;
+  position: absolute;
+  background-color: #799351;
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 25px;
+  box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.slide-two {
+  margin-top: 50px;
+}
+
+.introductory-para-head {
+  margin-left: 30px;
+  margin-right: 60px;
+  font-size: 50px;
+}
+
+.introductory-para {
+  margin-left: 30px;
+  margin-right: 60px;
+}
+
+.introductory-paraOne {
+  position: absolute;
+  margin-top: 490px;
+  margin-left: 40px;
+}
+
+#textBoxFeatures {
+  background-color: #adb36e;
+  border: 2px solid #adb36e;
+  border-radius: 25px;
+  width: 95%;
+  padding: 10px;
+  border-radius: 25px;
+  box-shadow: 5px 10px 8px 10px #888888;
+}
+
+
+.funFactOne {
+  margin-left: 65%;
+  margin-top: 550px;
+
+}
+
+.funFactTwo{
+  margin-left: 65%;
+  margin-top: 50px;
+}
+
+.bottom-container {
+  background-color: #62959c;
+  padding: 50px 0 20px;
+  margin-top: 350px;
+}
